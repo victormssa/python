@@ -1,4 +1,4 @@
-nome = 'Victor'
+nome = 'Victor Manoel'
 idade = 21
 peso = 73.5
 print('Seu nome é {}, sua idade é {}, e seu peso é {}kg'.format(nome, idade, peso))
